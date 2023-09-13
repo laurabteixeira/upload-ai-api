@@ -1,7 +1,9 @@
 node_modules
-# Keep environment variables out of version control
+
 .env
+
+tmp
 
 teste.mp3
 
-tmp
+example.mp3
